@@ -1,0 +1,8 @@
+*~
+.DS_Store
+tmp
+.idea/
+.bundle
+*.sublime-project
+*.sublime-workspace
+merge_master_to_integration.rb
